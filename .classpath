@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Users/Moritz/Documents/KTH/EH2745/git/Assigment1/libraries/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Moritz/Documents/KTH/EH2745/git/Assigment1/libraries/commons-cli-1.4/commons-cli-1.4.jar" sourcepath="D:/Users/Moritz/Documents/KTH/EH2745/git/Assigment1/libraries/commons-cli-1.4/commons-cli-1.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Users/Moritz/Documents/KTH/EH2745/git/Assigment1/libraries/commons-cli-1.4/commons-cli-1.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Users/Moritz/Documents/KTH/EH2745/git/Assigment2/libraries/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" sourcepath="D:/Users/Moritz/Documents/KTH/EH2745/git/Assigment2/libraries/jfreechart-1.0.19/source"/>
+	<classpathentry kind="lib" path="D:/Users/Moritz/Documents/KTH/EH2745/git/Assigment2/libraries/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

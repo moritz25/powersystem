@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<db-user>java</db-user>
+<db-pass>javapass</db-pass>
+<db-url>jdbc:mysql://localhost/</db-url>
+<db-name>java</db-name>
+</config>
